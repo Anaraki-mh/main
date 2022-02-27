@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\obj\Debug\SendEmail.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\obj\Debug\SendEmail.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\obj\Debug\SendEmail.Form1.resources
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\obj\Debug\SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\user\Desktop\C# -  Projects and notes\New folder\SendEmail\obj\Debug\SendEmail.pdb
